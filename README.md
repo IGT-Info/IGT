@@ -1,1 +1,1 @@
-# IGT-LP-Staging
+# IGT-LP
